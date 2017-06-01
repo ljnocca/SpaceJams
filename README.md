@@ -1,3 +1,6 @@
+# Space Jams Object-Oriented Game
+## Using Constructors, objects, if/else statements, and Math.Random to predict opponent & outcome of each score.
+
 # Constructors
 * Object literals can get repetetive
 * Constructors are useful when definining several of the same types of objects with similar key/value pairs - they create a template
